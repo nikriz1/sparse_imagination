@@ -4,7 +4,7 @@ This repository contains the source code for the project page of the paper **"Sp
 
 ## Citation
 
-If you find our work useful for your research, please cite
+If you find our work useful for your research, please cite 
 
 ## Acknowledgements
 
